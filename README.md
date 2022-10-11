@@ -11,7 +11,7 @@ I'm Richard Silva!
 <a href="https://t.me/richardfs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-💬 Ask me about **Games**, **Movies**, **Books**, **Python** and **JavaScript**
+💬 Ask me about **Games**, **Movies**, **Books**, **Python**, **JavaScript** and **Kotlin**
 
 **Skills:**  
 <p>
@@ -23,6 +23,9 @@ I'm Richard Silva!
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardfsilva">
