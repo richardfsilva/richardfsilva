@@ -11,7 +11,7 @@ I'm Richard Silva!
 <a href="https://t.me/richardfs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-💬 Ask me about **Games**, **Movies**, **Books**, **Python**, **JavaScript** and **Kotlin**
+💬 Ask me about **Games**, **Movies**, **Books**, **JavaScript**, **Kotlin** and **Emacs**
 
 **Skills:**  
 <p>
