@@ -8,7 +8,6 @@ I'm Richard Silva!
 <p>
 <a href="https://linkedin.com/in/richard-silva-bb432015b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:richardfsilva@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-<a href="https://t.me/richardfs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 💬 Ask me about **Games**, **Movies**, **Books**, **JavaScript**, **Kotlin** and **Emacs**
